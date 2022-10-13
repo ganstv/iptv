@@ -169,11 +169,11 @@ http://192.168.8.1:4022/udp/239.81.0.238:4056
 http://192.168.8.1:4022/udp/239.81.0.239:4056
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://192.168.8.1:4022/udp/239.81.0.240:4056
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字频道",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/jyjs.png" group-title="数字频道",金鹰纪实
 http://192.168.8.1:4022/udp/239.81.0.91:4056
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="数字频道",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/jykt.png" group-title="数字频道",金鹰卡通
 http://192.168.8.1:4022/udp/239.81.0.148:4056
-#EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/hbjcys.jpg" group-title="数字频道",精彩影视
+#EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/hbjcys.png" group-title="数字频道",精彩影视
 http://192.168.8.1:4022/udp/239.81.0.152:4056
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字频道",求索记录
 http://192.168.8.1:4022/udp/239.81.0.153:4056
@@ -229,21 +229,21 @@ http://192.168.8.1:4022/udp/239.81.0.235:4056
 http://192.168.8.1:4022/udp/239.81.0.70:4056
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="特色频道",游戏风云
 http://192.168.8.1:4022/udp/239.81.0.72:4056
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="特色频道",极速汽车
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/jsqc.png" group-title="特色频道",极速汽车
 http://192.168.8.1:4022/udp/239.81.0.73:4056
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="特色频道",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/shss.png" group-title="特色频道",生活时尚
 http://192.168.8.1:4022/udp/239.81.0.75:4056
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/dfcjpd.jpg" group-title="特色频道",东方财经
 http://192.168.8.1:4022/udp/239.81.0.76:4056
-#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/zgtq.jpg" group-title="特色频道",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/zgtq.png" group-title="特色频道",中国天气
 http://192.168.8.1:4022/udp/239.81.0.63:4056
 #EXTINF:-1 tvg-id="1976" tvg-name="乐游频道" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/shly.jpg" group-title="特色频道",乐游频道
 http://192.168.8.1:4022/udp/239.81.0.78:4056
-#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/fztd.jpg" group-title="特色频道",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/fztd.png" group-title="特色频道",法治天地
 http://192.168.8.1:4022/udp/239.81.0.79:4056
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/jsxt.png" group-title="特色频道",金色学堂
 http://192.168.8.1:4022/udp/239.81.0.80:4056
-#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/shdsjc.png" group-title="特色频道",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/shdsjc1.png" group-title="特色频道",都市剧场
 http://192.168.8.1:4022/udp/239.81.0.81:4056
 #EXTINF:-1 tvg-id="104" tvg-name="IPTV魅力时尚" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/IPTVmlss.png" group-title="特色频道",IPTV魅力时尚
 http://192.168.8.1:4022/udp/239.81.0.83:4056
@@ -257,7 +257,7 @@ http://192.168.8.1:4022/udp/239.81.0.86:4056
 http://192.168.8.1:4022/udp/239.81.0.236:4056
 #EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="特色频道",网络棋牌
 http://192.168.8.1:4022/udp/239.81.0.237:4056
-#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/sdjyws.jpg" group-title="特色频道",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/sdjyws.png" group-title="特色频道",山东教育卫视
 http://192.168.8.1:4022/udp/239.81.0.93:4056
 #EXTINF:-1 tvg-id="" tvg-name="IPTV足球" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/IPTV.png" group-title="特色频道",IPTV足球
 http://192.168.8.1:4022/udp/239.81.0.97:4056
@@ -269,3 +269,4 @@ http://192.168.8.1:4022/udp/239.81.0.20:4056
 http://192.168.8.1:4022/udp/239.81.0.17:4056
 #EXTINF:-1 tvg-id="" tvg-name="IPTV谍战剧场" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/IPTV.png" group-title="特色频道",IPTV谍战剧场
 http://192.168.8.1:4022/udp/239.81.0.15:4056
+
