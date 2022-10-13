@@ -219,7 +219,7 @@ http://192.168.8.1:4022/udp/239.81.0.209:4056
 http://192.168.8.1:4022/udp/239.81.0.62:4056
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="特色频道",嘉佳卡通
 http://192.168.8.1:4022/udp/239.81.0.64:4056
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/dmxc.jpg" group-title="特色频道",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/dmxc.png" group-title="特色频道",动漫秀场
 http://192.168.8.1:4022/udp/239.81.0.68:4056
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/IPTVsedh.png" group-title="特色频道",IPTV少儿动画
 http://192.168.8.1:4022/udp/239.81.0.82:4056
