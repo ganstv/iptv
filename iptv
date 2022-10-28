@@ -121,17 +121,17 @@ http://192.168.8.1:4022/udp/239.81.0.242:4056
 http://192.168.8.1:4022/udp/239.81.0.212:4056
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视频道",兵团卫视
 http://192.168.8.1:4022/udp/239.81.0.213:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxxw.jpg" group-title="广西频道",广西新闻
+#EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxxw.png" group-title="广西频道",广西新闻
 http://192.168.8.1:4022/udp/239.81.0.248:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西综艺旅游" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxzyly.jpg" group-title="广西频道",广西综艺旅游
+#EXTINF:-1 tvg-id="" tvg-name="广西综艺旅游" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxzyly.png" group-title="广西频道",广西综艺旅游
 http://192.168.8.1:4022/udp/239.81.0.214:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西都市" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxds.jpg" group-title="广西频道",广西都市
+#EXTINF:-1 tvg-id="" tvg-name="广西都市" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxds.png" group-title="广西频道",广西都市
 http://192.168.8.1:4022/udp/239.81.0.247:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西影视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxys.jpg" group-title="广西频道",广西影视
+#EXTINF:-1 tvg-id="" tvg-name="广西影视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxys.png" group-title="广西频道",广西影视
 http://192.168.8.1:4022/udp/239.81.0.250:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西国际" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxgj.jpg" group-title="广西频道",广西国际
+#EXTINF:-1 tvg-id="" tvg-name="广西国际" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxgj.png" group-title="广西频道",广西国际
 http://192.168.8.1:4022/udp/239.81.0.8:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西移动电视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxyd.jpg" group-title="广西频道",广西移动电视
+#EXTINF:-1 tvg-id="" tvg-name="广西移动电视" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxyd.png" group-title="广西频道",广西移动电视
 http://192.168.8.1:4022/udp/239.81.0.10:4056
 #EXTINF:-1 tvg-id="" tvg-name="广西科教" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gxkj.jpg" group-title="广西频道",广西科教
 http://192.168.8.1:4022/udp/239.81.0.11:4056
@@ -155,14 +155,20 @@ http://192.168.8.1:4022/udp/239.81.0.154:4056
 http://192.168.8.1:4022/udp/239.81.0.150:4056
 #EXTINF:-1 tvg-id="" tvg-name="贺州综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/hztv.png" group-title="广西频道",贺州综合
 http://192.168.8.1:4022/udp/239.81.0.163:4056
-#EXTINF:-1 tvg-id="" tvg-name="柳州新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/lztv.png" group-title="广西频道",柳州新闻综合
-http://192.168.8.1:4022/udp/239.81.0.134:4056
+#EXTINF:-1 tvg-id="" tvg-name="崇左综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/cztv.png" group-title="广西频道",崇左综合
+http://192.168.8.1:4022/udp/239.81.0.171:4056
+#EXTINF:-1 tvg-id="" tvg-name="贵港新闻综合" tvg-logo="" group-title="广西频道",贵港新闻综合
+http://192.168.8.1:4022/udp/239.81.0.172:4056
+#EXTINF:-1 tvg-id="" tvg-name="来宾综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/lbtv.png"" group-title="广西频道",来宾综合
+http://192.168.8.1:4022/udp/239.81.0.173:4056
 #EXTINF:-1 tvg-id="" tvg-name="桂林新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/gltv.png" group-title="广西频道",桂林新闻综合
-http://192.168.8.1:4022/udp/239.81.0.135:4056
+http://192.168.8.1:4022/udp/239.81.0.174:4056
+#EXTINF:-1 tvg-id="" tvg-name="柳州新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/lztv.png" group-title="广西频道",柳州新闻综合
+http://192.168.8.1:4022/udp/239.81.0.175:4056
+#EXTINF:-1 tvg-id="" tvg-name="梧州新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/wztv.png" group-title="广西频道",梧州新闻综合
+http://192.168.8.1:4022/udp/239.81.0.176:4056
 #EXTINF:-1 tvg-id="" tvg-name="玉林新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/yltv.png" group-title="广西频道",玉林新闻综合
-http://192.168.8.1:4022/udp/239.81.0.138:4056
-#EXTINF:-1 tvg-id="" tvg-name="梧州新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/wzxwzh.jpg" group-title="广西频道",梧州新闻综合
-http://192.168.8.1:4022/udp/239.81.0.244:4056
+http://192.168.8.1:4022/udp/239.81.0.177:4056
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
 http://192.168.8.1:4022/udp/239.81.0.238:4056
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
