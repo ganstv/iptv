@@ -157,7 +157,7 @@ http://192.168.8.1:4022/udp/239.81.0.150:4056
 http://192.168.8.1:4022/udp/239.81.0.163:4056
 #EXTINF:-1 tvg-id="" tvg-name="崇左综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/cztv.png" group-title="广西频道",崇左综合
 http://192.168.8.1:4022/udp/239.81.0.171:4056
-#EXTINF:-1 tvg-id="" tvg-name="贵港新闻综合" tvg-logo="" group-title="广西频道",贵港新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="贵港新闻综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/ggtv.png" group-title="广西频道",贵港新闻综合
 http://192.168.8.1:4022/udp/239.81.0.172:4056
 #EXTINF:-1 tvg-id="" tvg-name="来宾综合" tvg-logo="https://gitcode.net/ganstv/iptv/-/raw/master/tvlogo/lbtv.png"" group-title="广西频道",来宾综合
 http://192.168.8.1:4022/udp/239.81.0.173:4056
